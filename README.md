@@ -38,8 +38,6 @@ Identifies optimal number of clusters using WCSS.
 ###  Silhouette Score
 Validates cluster separation and cohesion.
 
-###  Feature Scaling
-Ensures balanced contribution of variables.
 
 ---
 
