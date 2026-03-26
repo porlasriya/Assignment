@@ -54,6 +54,3 @@ Validates cluster separation and cohesion.
 - 3D clustering analysis
 - 3D centroids
 
----
-
-## 📂 Project Structure
